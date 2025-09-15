@@ -70,7 +70,7 @@ The `report/` folder contains the LaTeX source (`.tex`) and the generated PDF.
 After running the client, two files are generated:
 
 - **`dnsReport.txt`** – Final DNS query results with resolved IP addresses  
-- **`dns.txt`** – Raw DNS packet data
+- **`dns.txt`** – Raw DNS packet data for testing and analysis purposes
 
 ---
 
