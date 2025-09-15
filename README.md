@@ -82,3 +82,9 @@ After running the client, two files are generated:
 
 ## Report
 The final report is available as **`report.pdf`**, with LaTeX sources in the `report/` directory.
+
+References:
+
+https://wiki.wireshark.org/Development/LibpcapFileFormat#overview
+https://www.ietf.org/archive/id/draft-gharris-opsawg-pcap-01.html
+https://docs.python.org/3/library/socket.html
